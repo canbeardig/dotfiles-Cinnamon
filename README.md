@@ -1,14 +1,14 @@
-Nordic Cinnamon Themes
-====
+# Nordic Cinnamon Themes
+
 <br/>
 
-### Magenta Nord
+## Magenta Nord
 
 <img src="screenshots/screenshot.png" width="500px">
 
 <br/>
 
-### Nordic Night
+## Nordic Night
 
 <img src="screenshots/screenshot-1.png" width="500px"> 
 
