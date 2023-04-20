@@ -1,7 +1,5 @@
 # Nordic Cinnamon Themes
 
-<br/>
-
 ## Magenta Nord
 
 <img src="screenshots/screenshot.png" width="500px">
