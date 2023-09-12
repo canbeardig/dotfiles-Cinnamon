@@ -27,4 +27,4 @@
 - Document Viewer: [Zathura](https://github.com/pwmt/zathura)
 - Audio Visualizer: [cava](https://github.com/karlstav/cava)
 - Fonts: [Fira](https://github.com/mozilla/Fira), [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono), [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts), [Iosevka Aile](https://github.com/be5invis/Iosevka), [Play](https://fonts.google.com/specimen/Play)
-- [Wallpapers](https://unsplash.com/photos/elz_jOsXTf4) edited with [ImageGoNord](https://ign.schrodinger-hat.it/)
+- Wallpapers edited with [ImageGoNord](https://ign.schrodinger-hat.it/)
