@@ -10,7 +10,11 @@
 
 <img src="screenshots/screenshot-1.png" width="500px"> 
 
+<br/>
 
+## Nord Colours Everywhere
+
+<img src="screenshots/screenshot-2.png" width="500px"> 
 
 <br/>
 
