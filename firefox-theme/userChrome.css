@@ -1,0 +1,16 @@
+.bookmark-item > .toolbarbutton-icon {
+    display: none !important;
+}
+
+#PlacesToolbarItems > .bookmark-item > .toolbarbutton-icon[label]: {
+    margin-inline-end: 0px !important;
+}
+
+#identity-box.extensionPage #identity-icon-label {
+    display: none !important;
+    
+}
+
+#identity-icon-box {
+  display: none !important;
+}
