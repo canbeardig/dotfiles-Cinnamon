@@ -1,0 +1,41 @@
+configuration {
+    font: "Fira Sans Medium 11";
+    line-margin: 10;
+
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "Apps";
+    display-window: "Windows";
+    display-combi:  "";
+    show-icons:     false;
+  
+    icon-theme: "Papirus-Dark";
+	kb-mode-next: "Super+Right,Control+Tab";
+	kb-mode-previous: "Super+Left,Control+ISO_Left_Tab";
+	modes: "drun,window";
+	disable-history: true;
+	sort: true;
+	sorting-method: "fzf";
+	-drun-display-format: "name";
+	
+}
+
+
+@theme "~/.config/rofi/dracula.rasi"
+
+listview {
+	lines: 9;
+	columns: 1;
+}
+
+window {
+	width: 30%;
+}
+
+
+
+inputbar {
+     children: [prompt, entry];
+}
+
+/*rofi -show drun -drun-display-format {name}

@@ -1,0 +1,137 @@
+/**
+ * Nordic rofi theme
+ * Adapted by undiabler <undiabler@gmail.com>
+ *
+ * Nord Color palette imported from https://www.nordtheme.com/
+ *
+ */
+
+
+* {
+	nord0: #282A36;
+	nord1: #3b4252;
+	nord2: #434c5e;
+	nord3: #4c566a;
+
+	nord4: #F8F8F2;
+	nord5: #e5e9f0;
+	nord6: #eceff4;
+
+	nord7: #8fbcbb;
+	nord8: #88c0d0;
+	nord9: #BD93F9;
+	nord10: #5e81ac;
+	nord11: #50fa7b;
+
+	nord12: #d08770;
+	nord13: #ebcb8b;
+	nord14: #a3be8c;
+	nord15: #b48ead;
+
+    foreground:  @nord4;
+
+    background-color: @nord0;
+    
+    highlight:   bold underline #f8f8f2;
+    transparent: rgba(46,52,64,0);
+   
+}
+
+window {
+    location: center;
+    anchor:   center;
+
+    padding: 0;
+    border: 5px;
+    border-radius: 3px;
+
+    background-color: @nord9;
+    spacing: 0;
+    children:  [mainbox];
+    orientation: horizontal;
+}
+
+mainbox {
+    spacing: 0;
+        border-radius: 3px;
+    children: [ inputbar, message, listview ];
+    background-color: @nord0;
+}
+
+message {
+    color: @nord0;
+    padding: 5px;
+    border-color: @foreground;
+    border:  0px 2px 2px 2px;
+    background-color: @nord9;
+}
+
+inputbar {
+    color: @nord4;
+    padding: 10px 0px 0px 13px;
+    background-color: @nord0;
+    border-color: @nord9;
+    
+
+}
+
+entry, prompt, case-indicator {
+    text-font: inherit;
+    text-color:inherit;
+}
+
+prompt {
+    margin: 0px 5px 0em 0em ;
+   
+}
+
+listview {
+    padding: 8px;
+    dynamic: false;
+}
+
+element {
+    padding: 2px;
+    vertical-align: 0.5;
+    border-radius: 3px;
+    background-color: @nord0;
+    text-color: @nord4;
+    
+}
+
+element selected.normal {
+	background-color: @nord0;
+	text-color: @nord11;
+}
+
+element-text {
+    background-color: inherit;
+    text-color:       inherit;
+    padding: 3px;
+    vertical-align: 0.5;
+
+}
+
+element-icon {
+    background-color: inherit;
+    text-color:       inherit;
+    padding: 3px;
+    size: 24px;
+
+}
+
+button {
+    padding: 5px;
+    color: @foreground;
+    horizontal-align: 0.5;
+    border: 2px 0px 5px 5px;
+    border-radius: 4px 0px 0px 4px;
+    border-color: @foreground;
+}
+
+button selected normal {
+    border: 2px 0px 2px 2px;
+    border-color: @foreground;
+}
+
+
