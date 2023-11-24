@@ -15,6 +15,7 @@
 ## Apps and Sources:
 - Themes: [Nordic](https://www.pling.com/s/Cinnamon/p/1267246), [Dracula](https://www.pling.com/s/Cinnamon/p/1687249)
 - Icons: [Papirus Nord](https://github.com/Adapta-Projects/Papirus-Nord), [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
+- App launcher: [Rofi](https://github.com/davatorium/rofi)
 - Spotify: [Spicetify](https://github.com/spicetify)
 - gedit: [Nord gedit](https://github.com/arcticicestudio/nord-gedit), [Dracula gedit](https://github.com/dracula/gedit)
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
