@@ -18,6 +18,7 @@
 - Spotify: [Spicetify](https://github.com/spicetify)
 - gedit: [Nord gedit](https://github.com/arcticicestudio/nord-gedit), [Dracula gedit](https://github.com/dracula/gedit)
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
+- Shell prompt: [Starship](https://starship.rs/)
 - Document Viewer: [Zathura](https://github.com/pwmt/zathura)
 - Audio Visualizer: [cava](https://github.com/karlstav/cava)
 - Lyrics: [sptlrx](https://github.com/raitonoberu/sptlrx)
