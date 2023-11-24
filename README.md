@@ -10,6 +10,7 @@
 
 <img src="screenshots/Screenshot-dracula.png" width="500px"> 
 
+<br/>
 
 ## Apps and Sources:
 - Theme: [Nordic](https://www.pling.com/s/Cinnamon/p/1267246)
