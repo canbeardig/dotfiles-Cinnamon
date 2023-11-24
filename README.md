@@ -6,6 +6,11 @@
 
 <br/>
 
+## Minimalist Dracula
+
+<img src="screenshots/Screenshot-dracula.png" width="500px"> 
+
+
 ## Apps and Sources:
 - Theme: [Nordic](https://www.pling.com/s/Cinnamon/p/1267246)
 - Icons: [Papirus Nord](https://github.com/Adapta-Projects/Papirus-Nord), [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
