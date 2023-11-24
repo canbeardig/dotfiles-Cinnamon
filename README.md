@@ -1,4 +1,4 @@
-# Nordic Cinnamon Themes
+# Cinnamon Themes
 
 ## Nord Colours Everywhere
 
