@@ -1,17 +1,5 @@
 # Nordic Cinnamon Themes
 
-## Magenta Nord
-
-<img src="screenshots/screenshot.png" width="500px">
-
-<br/>
-
-## Nordic Night
-
-<img src="screenshots/screenshot-1.png" width="500px"> 
-
-<br/>
-
 ## Nord Colours Everywhere
 
 <img src="screenshots/screenshot-2.png" width="500px"> 
