@@ -1,3 +1,4 @@
+/* Remove icons from bookmarks tab */
 .bookmark-item > .toolbarbutton-icon {
     display: none !important;
 }
@@ -6,12 +7,14 @@
     margin-inline-end: 0px !important;
 }
 
+/* Remove "Extension Tabliss" label from the search bar on a new tab */
 #identity-box.extensionPage
     #identity-icon[tooltiptext="Loaded by extension: Tabliss"]
     ~ #identity-icon-label {
     display: none !important;
 }
 
+/* Dark background for the identity box */
 #identity-icon-box {
     background: none !important;
 }
