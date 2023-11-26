@@ -6,11 +6,12 @@
     margin-inline-end: 0px !important;
 }
 
-#identity-box.extensionPage #identity-icon-label {
+#identity-box.extensionPage
+    #identity-icon[tooltiptext="Loaded by extension: Tabliss"]
+    ~ #identity-icon-label {
     display: none !important;
-    
 }
 
 #identity-icon-box {
-  display: none !important;
+    background: none !important;
 }
