@@ -23,5 +23,5 @@
 - Document Viewer: [Zathura](https://github.com/pwmt/zathura)
 - Audio Visualizer: [cava](https://github.com/karlstav/cava)
 - Lyrics: [sptlrx](https://github.com/raitonoberu/sptlrx)
-- Fonts: [Fira](https://github.com/mozilla/Fira), [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+- Fonts: [Fira](https://github.com/mozilla/Fira), [Iosevka](https://github.com/be5invis/Iosevka), [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 - Wallpapers: [Dracula](https://github.com/aynp/dracula-wallpapers)
