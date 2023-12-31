@@ -20,7 +20,7 @@
 - gedit: [Nord gedit](https://github.com/arcticicestudio/nord-gedit), [Dracula gedit](https://github.com/dracula/gedit)
 - Document viewer: [Zathura](https://github.com/pwmt/zathura)
 - Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
-- Shell prompt: [Starship](https://starship.rs/)
+- Shell prompt: [Starship](https://github.com/starship/starship)
 - Resource monitor: [Btop++](https://github.com/aristocratos/btop)
 - Audio visualizer: [cava](https://github.com/karlstav/cava)
 - Lyrics: [sptlrx](https://github.com/raitonoberu/sptlrx)
