@@ -32,7 +32,7 @@
     --font-weight: 600; /* 200 : 900 */
     --line-height: 1.2;
 
-    --display-card-image: none; /* none | block */
+    --display-card-image: block; /* none | block */
     --display-coverart-image: none; /* none | block */
     --display-header-image: none; /* none | block */
     --display-library-image: none; /* none | block */
