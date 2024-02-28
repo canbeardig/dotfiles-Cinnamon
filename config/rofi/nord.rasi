@@ -134,4 +134,3 @@ button selected normal {
     border-color: @foreground;
 }
 
-
