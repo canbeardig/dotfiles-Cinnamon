@@ -1,8 +1,6 @@
 /**
- * Nordic rofi theme
- * Adapted by undiabler <undiabler@gmail.com>
+ * Dracula rofi theme
  *
- * Nord Color palette imported from https://www.nordtheme.com/
  *
  */
 
@@ -133,5 +131,4 @@ button selected normal {
     border: 2px 0px 2px 2px;
     border-color: @foreground;
 }
-
 
