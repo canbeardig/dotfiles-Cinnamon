@@ -3,6 +3,9 @@
     display: none !important;
 }
 
+/* Remove "list all tabs" button */
+#alltabs-button { display: none !important; }
+
 #PlacesToolbarItems > .bookmark-item > .toolbarbutton-icon[label]: {
     margin-inline-end: 0px !important;
 }
